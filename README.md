@@ -1,8 +1,8 @@
 # Lab 2: SQLite database and CRUD routes
 
-- **Name:** [Your Name]
-- **Registration Number:** [Your Registration Number]
-- **Section:** [Your Section]
+- **Name:** KOLLA KESHAVA
+- **Registration Number:** 252U1R9068
+- **Section:** CSE-GENAI-2A-304
 - **Course:** Backend Development Fundamentals
 - **Lab Number:** 02
 
